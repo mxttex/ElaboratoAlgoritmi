@@ -1,18 +1,14 @@
 {
     "configurations": [
         {
-            "name": "Win32",
+            "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**"
             ],
-            "defines": [
-                "_DEBUG",
-                "UNICODE",
-                "_UNICODE"
-            ],
-            "compilerPath": "C:\\Program Files\\CodeBlocks\\mingw64\\bin\\gcc.exe",   
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
             "cStandard": "c89",
-            "intelliSenseMode": "windows-gcc-x64"
+            "intelliSenseMode": "linux-gcc-x64"
         }
     ],
     "version": 4
